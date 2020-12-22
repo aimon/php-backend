@@ -1,0 +1,1 @@
+docker build --cache-from guest  -f docker/Dockerfile -t guest .
